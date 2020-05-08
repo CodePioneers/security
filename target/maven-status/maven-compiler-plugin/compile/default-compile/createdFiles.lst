@@ -1,0 +1,3 @@
+com\application\App.class
+com\application\model\User.class
+com\application\service\UserService.class
